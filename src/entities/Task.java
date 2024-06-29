@@ -14,6 +14,6 @@ public class Task extends Lesson {
     public int duration(){
         return questionCount*300;
     }
-    
+
 
 }
